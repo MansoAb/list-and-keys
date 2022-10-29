@@ -18,10 +18,10 @@ const Main = () => {
       <div className={styles.productsPrice}>
         <Product name="Macbook" src={macbook} price="76000" />
         <Product name="Iphone" src={iphone} price="50000" />
-        <Product name="Scooter" src={scooter} price="25000" />
         <Product name="apple watch" src={watch} price="22500" />
-        <Product name="Samsung" src={samsung} price="37000" />
+        <Product name="Scooter" src={scooter} price="25000" />
         <Product name="AirPods 2" src={airpods} price="12000" />
+        <Product name="Samsung" src={samsung} price="37000" />
       </div>
     </div>
   );

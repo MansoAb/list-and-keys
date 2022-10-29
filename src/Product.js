@@ -7,7 +7,7 @@ function Product(prom) {
         <img src={prom.src} className={styles.productImg}></img>
       </div>
 
-      <p>{prom.price}</p>
+      <h3>{prom.price}</h3>
       <h1>{prom.name}</h1>
       <h1 className={styles.button}>Купить</h1>
     </div>
