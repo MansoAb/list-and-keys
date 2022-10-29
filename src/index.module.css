@@ -17,7 +17,7 @@
   margin-top: 10px;
 }
 
-.logo:hover{
+.logo:hover {
   scale: 1.1;
   cursor: pointer;
 }
@@ -27,7 +27,8 @@
   cursor: pointer;
 }
 
-.textBord:hover, .product :first-child:hover{
+.textBord:hover,
+.product :first-child:hover {
   scale: 1.02;
   cursor: pointer;
 }
@@ -66,9 +67,8 @@
   box-sizing: border-box;
   border: 0.1px solid rgba(128, 128, 128, 0);
   transition: 0.1s linear;
-
 }
-.button:hover{
+.button:hover {
   scale: 1.04;
 }
 

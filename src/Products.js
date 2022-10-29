@@ -1,6 +1,6 @@
 import styles from "./index.module.css";
 
-function Product(prom) {
+function Products(prom) {
   return (
     <div className={styles.box}>
       <div className={styles.imgP}>
@@ -14,4 +14,4 @@ function Product(prom) {
   );
 }
 
-export default Product;
+export default Products;
